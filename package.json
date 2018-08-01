@@ -8,6 +8,7 @@
     "syntax",
     "theme"
   ],
+  "owner": "Triangle-MX",
   "repository": "https://github.com/Triangle-MX/Triangle-Syntax/",
   "license": "MIT",
   "engines": {
