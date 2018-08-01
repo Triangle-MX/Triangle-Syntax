@@ -2,7 +2,7 @@
   "name": "triangle--syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "Syntax Theme developed by Triangle.",
+  "description": "A Syntax Theme for Atom developed by Triangle.",
   "keywords": [
     "syntax",
     "theme"
