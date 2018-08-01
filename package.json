@@ -1,5 +1,5 @@
 {
-  "name": "triangle-syntax",
+  "name": "triangle--syntax",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "Syntax Theme developed by Triangle.",
@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/triangle--syntax",
+  "repository": "https://github.com/Triangle-MX/Triangle-Syntax/",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
