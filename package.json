@@ -9,7 +9,7 @@
     "theme"
   ],
   "owner": "Triangle-MX",
-  "repository": "https://github.com/Triangle-MX/Triangle-Syntax/",
+  "repository": "https://github.com/Triangle-MX/Triangle-Syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
